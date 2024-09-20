@@ -1,1 +1,1 @@
-# ccRCC_Creless_Model_scRNA
+This repository contains Jupyter notebooks and R scripts for producing raw plots and source files for main figure content in the manuscript: "Towards a CRISPR-Based Mouse Model of Vhl-deficient Clear Cell Kidney Cancer: Initial Experience and Lessons Learned".
